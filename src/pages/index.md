@@ -10,47 +10,34 @@ mainpitch:
     Code up is a community driven environment that provides detailed information
     on the latest trends of the technology stack you love and work with.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  When skilling up, you often get in the rot... we are always open to helping
+  you spot the "rot signature" and helpfully break out of the loop.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/0-1gnoqyaj5jj1e_w3.jpeg
+      text: >-
+        We provide integral Team Experience and build products from Ideation to
+        deployment... Team strategy is critical for optimal performance.
+    - image: /img/17new-2x.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        We offer code inspections and bug neutralization. We also place your
+        skill on the demand lane where companies look to hire good developers to
+        enhance or build their products
+    - image: /img/1_bqfbhrjzbjebazskdw2dga.jpeg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Write astonishing articles and update your CV to match professional
+        standards
+    - image: /img/gbwa-20181227003611.jpg
+      text: >-
+        We believe that good workspace makes for better inspiration. Let's help
+        you create your imagination
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    CodeUp is your one stop spot for code lovers who are looking to upgrade
+    their skill level. We provide support, mentor-ship and advance meetups to
+    help elevate your game.
 main:
-  heading: Great coffee with no compromises
+  heading: One Bug At A Time
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
