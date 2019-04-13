@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Code Up
-image: /img/chemex.jpg
+title: Code UP
+image: /img/0-1gnoqyaj5jj1e_w3.jpeg
 heading: Coding is Poetry
 subheading: Upgrade your coding skills and stay updated with trending technologies
 mainpitch:
